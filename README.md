@@ -7,7 +7,7 @@
 3.后台：springboot、mybatis、spring（当下最流行）
 
 需要的加扣扣389790849，另接项目代做，定制，技术辅导，bug修复
-
+，github图片显示不出来，可加扣查看。
 
 ![image](https://github.com/1311236/bookShop/blob/main/images/%E5%9B%BE%E7%89%871.png)
 
